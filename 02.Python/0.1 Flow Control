@@ -1,0 +1,17 @@
+# 01 - Flow Control
+
+In this part you will learn how to control the flow of your code - when to execute what and how much :)
+
+## Questions
+
+1. How do you execute single line vs multi line if else statements? 
+2. How do you iterate over a list? How do you iterate over list's length?
+3. Can `else` be used after a loop in Python?
+4. What are the keywords `break`, `continue` and `pass`?
+5. What is the difference between `for` and `while` loop?
+6. What are 'try' 'except' 'else' 'finally'?  
+7. How do you use switch cases?
+
+## Tasks
+
+* Get input from user - number of terms to present from Fibonacci sequence and print the squence you found, handle exceptions.

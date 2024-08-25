@@ -1,0 +1,17 @@
+# 00 - Python Introduction
+
+In this part you will learn about the basics of the Python language - basic data types, basic operators and more!
+
+## Questions
+
+1. What is the difference between compiler and interpeter? Which one is Python  based on?
+2. Why indentation is important in Python?
+3. What are invalid variable names in Python?
+4. How to write a comment in Python?
+5. How do you import Python libraries that you want to use? 
+6. Which package manager does python use? 
+7. What are some common operations?
+
+## Tasks
+
+* Get input from user - distance in kilometers, convert it to miles and print the result.
