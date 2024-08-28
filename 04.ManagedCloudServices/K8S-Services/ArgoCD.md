@@ -39,12 +39,12 @@ Ask your trainer to prepare for you:
   - [ ] Hello-world deployment
   - [ ] Service
   - [ ] Route
-1. Connect your GitLab repository to your ArgoCD instance
-1. Create an application in ArgoCD that deploys the `hello-world` manifests in your OpenShift namespace. 
-1. Delete the application and watch the resources in your OpenShift namespaces. What happened to the resources managed by the application?
-1. Redeploy the same resources using ArgoCD. This time, create the application using an app of apps instead of manually. 
-1. In your Git repo, create 2 directorys:
+2. Connect your GitLab repository to your ArgoCD instance
+3. Create an application in ArgoCD that deploys the `hello-world` manifests in your OpenShift namespace. 
+4. Delete the application and watch the resources in your OpenShift namespaces. What happened to the resources managed by the application?
+5. Redeploy the same resources using ArgoCD. This time, create the application using an app of apps instead of manually. 
+6. In your Git repo, create 2 directorys:
   - [ ] Bruno
   - [ ] Toffee
   In each directory, add a yaml file with a configMap manifest. The name of the configMap should be the same as the directory. 
-1. Using an applicationset, deploy the configMaps (bruno & toffee) in your OpenShift namespace. 
+7. Using an applicationset, deploy the configMaps (bruno & toffee) in your OpenShift namespace. 
