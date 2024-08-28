@@ -14,16 +14,16 @@
 3. Why do you need an image registry?
 4. What are some feaures of Quay?
 5. Explain these Quay concepts:
-  1. Organization
-  2. Repository
-  3. Tag
-  4. Time machine
-  5. Quota
+     1. Organization
+     2. Repository
+     3. Tag
+      4. Time machine
+     5. Quota
 6. Explain about the permmissions structure in Quay
-  1. Team
-  2. Default permissions
-  3. Team role
-  4. Repository permissions
+      1. Team
+     2. Default permissions
+     3. Team role
+     4. Repository permissions
 7. What is a robot account?
 8. What are private repositories? How do you set a repository as public?
 9. How would you use images from private repositories in an OpenShift pod?
