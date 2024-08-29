@@ -1,6 +1,5 @@
 # ArgoCD
 
-![ArgoCD Logo](../_images_/argocd.png)
 
 #### Getting Started
 
@@ -26,7 +25,6 @@
 
 ## Final Task
 
-![Release The Kraken](../_images_/Release-the-Kraken.png)
 
 #### Prerequisites
 
