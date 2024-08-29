@@ -2,8 +2,8 @@
 
 ![RedHat Quay Logo](../_images_/redhat-quay.png)
 
-#### Getting Started 
-- [ ] Get familiar with the concept of docker images 
+#### Getting Started
+- what is db?
 - [ ] Get familiar with image management tools (docker, podman)
 - [ ] Read [FILLME] 
 
