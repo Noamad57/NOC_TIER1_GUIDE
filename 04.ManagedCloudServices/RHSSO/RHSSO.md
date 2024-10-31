@@ -2,11 +2,11 @@
 #### Getting Started
 - [ ] Read about authentication and authorization
 - [ ] Understand how RHSSO works in general
-- [ ] Learn how an application can intergate with SSO
+- [ ] Learn how an application can integrate with SSO
 
 #### Basic Questions
 1. What's authentication?
-2. What's autherization? What's the difference between authentication and authorization?
+2. What's authorization? What's the difference between authentication and authorization?
 3. Understand the following terms:
     1. OIDC
     2. SAML
