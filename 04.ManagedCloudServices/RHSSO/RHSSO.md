@@ -1,7 +1,9 @@
 # RHSSO
 #### Getting Started
 [] Read about authentication and authorization
+
 [] Understand how RHSSO works in general
+
 [] Learn how an application can intergate with SSO
 
 #### Basic Questions
