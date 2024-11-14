@@ -21,3 +21,5 @@
     5. Client scopes
 6. How an application can integrate with SSO?
  
+#### Task
+Switchover one of the NP environments to the opposite environment with a tutor.
